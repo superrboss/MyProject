@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\First\First.Core\bin\Debug\net8.0\First.Core.deps.json
+C:\Users\DELL\source\repos\First\First.Core\bin\Debug\net8.0\First.Core.dll
+C:\Users\DELL\source\repos\First\First.Core\bin\Debug\net8.0\First.Core.pdb
+C:\Users\DELL\source\repos\First\First.Core\obj\Debug\net8.0\First.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\First\First.Core\obj\Debug\net8.0\First.Core.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\First\First.Core\obj\Debug\net8.0\First.Core.AssemblyInfo.cs
+C:\Users\DELL\source\repos\First\First.Core\obj\Debug\net8.0\First.Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\First\First.Core\obj\Debug\net8.0\First.Core.dll
+C:\Users\DELL\source\repos\First\First.Core\obj\Debug\net8.0\refint\First.Core.dll
+C:\Users\DELL\source\repos\First\First.Core\obj\Debug\net8.0\First.Core.pdb
+C:\Users\DELL\source\repos\First\First.Core\obj\Debug\net8.0\ref\First.Core.dll
+C:\Users\DELL\source\repos\First\First.Core\obj\Debug\net8.0\First.Core.csproj.AssemblyReference.cache

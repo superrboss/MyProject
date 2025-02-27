@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\First\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA3333F-8ADB-4442-B341-E225881558C7}|First\\First.csproj|c:\\users\\dell\\source\\repos\\first\\first\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA3333F-8ADB-4442-B341-E225881558C7}|First\\First.csproj|solutionrelative:first\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDAD372-12D1-4D6A-A4F0-B50435B67DA9}|first.EF\\first.EF.csproj|c:\\users\\dell\\source\\repos\\first\\first.ef\\servicesuser\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDAD372-12D1-4D6A-A4F0-B50435B67DA9}|first.EF\\first.EF.csproj|solutionrelative:first.ef\\servicesuser\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDAD372-12D1-4D6A-A4F0-B50435B67DA9}|first.EF\\first.EF.csproj|c:\\users\\dell\\source\\repos\\first\\first.ef\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDAD372-12D1-4D6A-A4F0-B50435B67DA9}|first.EF\\first.EF.csproj|solutionrelative:first.ef\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA3333F-8ADB-4442-B341-E225881558C7}|First\\First.csproj|c:\\users\\dell\\source\\repos\\first\\first\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA3333F-8ADB-4442-B341-E225881558C7}|First\\First.csproj|solutionrelative:first\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2AC6D6-70D4-4C81-8E44-2AE854578E49}|First.Core\\First.Core.csproj|c:\\users\\dell\\source\\repos\\first\\first.core\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2AC6D6-70D4-4C81-8E44-2AE854578E49}|First.Core\\First.Core.csproj|solutionrelative:first.core\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDAD372-12D1-4D6A-A4F0-B50435B67DA9}|first.EF\\first.EF.csproj|c:\\users\\dell\\source\\repos\\first\\first.ef\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDAD372-12D1-4D6A-A4F0-B50435B67DA9}|first.EF\\first.EF.csproj|solutionrelative:first.ef\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDAD372-12D1-4D6A-A4F0-B50435B67DA9}|first.EF\\first.EF.csproj|c:\\users\\dell\\source\\repos\\first\\first.ef\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDAD372-12D1-4D6A-A4F0-B50435B67DA9}|first.EF\\first.EF.csproj|solutionrelative:first.ef\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2AC6D6-70D4-4C81-8E44-2AE854578E49}|First.Core\\First.Core.csproj|c:\\users\\dell\\source\\repos\\first\\first.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2AC6D6-70D4-4C81-8E44-2AE854578E49}|First.Core\\First.Core.csproj|solutionrelative:first.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\First\\first.EF\\ServicesUser\\TokenServices.cs",
+              "RelativeDocumentMoniker": "first.EF\\ServicesUser\\TokenServices.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\First\\first.EF\\ServicesUser\\TokenServices.cs",
+              "RelativeToolTip": "first.EF\\ServicesUser\\TokenServices.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:06:31.146Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\First\\First.Core\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "First.Core\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\First\\First.Core\\MappingProfile.cs",
+              "RelativeToolTip": "First.Core\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:53:31.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\First\\first.EF\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "first.EF\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\First\\first.EF\\Services\\ProductServices.cs",
+              "RelativeToolTip": "first.EF\\Services\\ProductServices.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:52:36.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\First\\first.EF\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "first.EF\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\First\\first.EF\\Services\\IProductService.cs",
+              "RelativeToolTip": "first.EF\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:52:12.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\First\\First\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "First\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\First\\First\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "First\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:51:19.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\First\\First.Core\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "First.Core\\DTO\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\First\\First.Core\\DTO\\ProductDto.cs",
+              "RelativeToolTip": "First.Core\\DTO\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:48:14.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\First\\First\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "First\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\First\\First\\Controllers\\UserController.cs",
+              "RelativeToolTip": "First\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:56:22.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\First\\first.EF\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "first.EF\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\First\\first.EF\\Services\\UserServices.cs",
+              "RelativeToolTip": "first.EF\\Services\\UserServices.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAApwEoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:34:13.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

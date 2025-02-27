@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\First\first.EF\bin\Debug\net8.0\first.EF.deps.json
+C:\Users\DELL\source\repos\First\first.EF\bin\Debug\net8.0\first.EF.runtimeconfig.json
+C:\Users\DELL\source\repos\First\first.EF\bin\Debug\net8.0\first.EF.dll
+C:\Users\DELL\source\repos\First\first.EF\bin\Debug\net8.0\first.EF.pdb
+C:\Users\DELL\source\repos\First\first.EF\bin\Debug\net8.0\First.Core.dll
+C:\Users\DELL\source\repos\First\first.EF\bin\Debug\net8.0\First.Core.pdb
+C:\Users\DELL\source\repos\First\first.EF\obj\Debug\net8.0\first.EF.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\First\first.EF\obj\Debug\net8.0\first.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\First\first.EF\obj\Debug\net8.0\first.EF.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\First\first.EF\obj\Debug\net8.0\first.EF.AssemblyInfo.cs
+C:\Users\DELL\source\repos\First\first.EF\obj\Debug\net8.0\first.EF.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\First\first.EF\obj\Debug\net8.0\first.EF.csproj.Up2Date
+C:\Users\DELL\source\repos\First\first.EF\obj\Debug\net8.0\first.EF.dll
+C:\Users\DELL\source\repos\First\first.EF\obj\Debug\net8.0\refint\first.EF.dll
+C:\Users\DELL\source\repos\First\first.EF\obj\Debug\net8.0\first.EF.pdb
+C:\Users\DELL\source\repos\First\first.EF\obj\Debug\net8.0\first.EF.genruntimeconfig.cache
+C:\Users\DELL\source\repos\First\first.EF\obj\Debug\net8.0\ref\first.EF.dll
