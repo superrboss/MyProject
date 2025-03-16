@@ -19,6 +19,7 @@ namespace First.Filters
 
         public void OnAuthorization(AuthorizationFilterContext context)
         {
+            // search of filter in controller
             //search of all methods are used Authorize attribute
             var hasIgnoreFilter = context.ActionDescriptor.FilterDescriptors
                 .Any(f => f.Filter is AuthorizeAttribute auth && auth.IgnoreFilter);
