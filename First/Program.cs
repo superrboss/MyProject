@@ -1,6 +1,8 @@
 using first.EF;
 using first.EF.Services;
+using first.EF.UnitOfWork;
 using First.Core;
+using First.Core.IUnitOfWork;
 using First.Core.JwtMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -55,6 +57,8 @@ builder.Services.AddDbContext<AppDbContext>(op => op.UseSqlServer(
 //builder.Services.AddScoped(typeof(IBaseRepo<>), typeof(BaseRepo<>));
 builder.Services.AddScoped<IUserServices, UserServices>();
 builder.Services.AddScoped<IProductService, ProductServices>();
+builder.Services.AddScoped<IUnitOfWork,UnitOfWork>();
+
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 builder.Services.Configure<JwtMap>(builder.Configuration.GetSection("JWT"));
 builder.Services.AddHttpContextAccessor();
